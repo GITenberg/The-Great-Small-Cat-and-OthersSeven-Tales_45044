@@ -1,0 +1,40 @@
+_repo: The-Great-Small-Cat-and-OthersSeven-Tales_45044
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Lemos, Pedro J. (Pedro Joseph)
+    aliases:
+    - Lemos, Pedro J. de
+    - De Lemos, Pedro J.
+    - Lemos, Pedro Joseph
+    birthdate: 1882
+    deathdate: 1954
+    gutenberg_agent_id: '43046'
+    url: http://www.gutenberg.org/2009/agents/43046
+    wikipedia: https://en.wikipedia.org/wiki/Pedro_Joseph_de_Lemos
+covers:
+- cover_type: archival
+  image_path: 45044-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Southworth, May E. (May Elizabeth)
+    alias: Southworth, May Elizabeth
+    gutenberg_agent_id: '43045'
+    url: http://www.gutenberg.org/2009/agents/43045
+description: ''
+gutenberg_issued: '2014-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45044'
+  lccn: '14014602'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Cats -- Folklore'
+tableOfContents: The great small cat -- Thursday -- A mine, a miner, and a cat --
+  Aïda and Saadi -- Marooned -- Maida -- A memory.
+title: 'The Great Small Cat, and Others: Seven Tales'
+url: http://www.gutenberg.org/ebooks/45044
